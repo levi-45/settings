@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <!-- Vhannibal Settings -->
+    <vhannibal>
+        <setting name="motor" url="https://www.vhannibal.net/Vhannibal%20Motor%2006%20set%202026.zip" />
+        <setting name="fixed" url="https://www.vhannibal.net/Vhannibal%20Hot%20Bird%2006%20set%202026.zip" />
+        <setting name="dual" url="https://www.vhannibal.net/Vhannibal%20Dual%2006%20set%202026.zip" />
+        <setting name="quadri" url="https://www.vhannibal.net/Vhannibal%20Quadri%2006%20set%202026.zip" />
+        <setting name="trial" url="https://www.vhannibal.net/Vhannibal%20Trial%2006%20set%202026.zip" />
+    </vhannibal>
+    
+    <!-- Levi45 Settings (already hardcoded) -->
+    <levi45>
+        <setting name="whitelist_streamrelay" url="levi45_whitelist_streamrelay.tar.gz" />
+        <setting name="whitelist" url="levi45_whitelist.tar.gz" />
+        <setting name="streamrelay" url="levi45_streamrelay.tar.gz" />
+        <setting name="list" url="levi45_list.tar.gz" />
+    </levi45>
+</settings>
