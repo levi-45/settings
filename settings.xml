@@ -2,7 +2,7 @@
 <settings>
     <!-- Vhannibal Settings -->
     <vhannibal>
-        <setting name="motor" url="https://www.vhannibal.net/Vhannibal%20Motor%2006%20set%202026.zip" />
+        <setting name="motor" url="https://www.vhannibal.net/Vhannibal Motor *.zip" />
         <setting name="fixed" url="https://www.vhannibal.net/Vhannibal%20Hot%20Bird%2006%20set%202026.zip" />
         <setting name="dual" url="https://www.vhannibal.net/Vhannibal%20Dual%2006%20set%202026.zip" />
         <setting name="quadri" url="https://www.vhannibal.net/Vhannibal%20Quadri%2006%20set%202026.zip" />
